@@ -1,0 +1,2 @@
+timestamp,config_snapshot,client_metadata
+2026-07-07 15:39:44.931810,"{""TICK_RATE"": 20, ""TICK_TIME"": 0.05, ""LATENCY_MS"": 0, ""JITTER_MS"": 20, ""PACKET_LOSS"": 0.1, ""SEED"": 42, ""DEAD_RECKONING_ENABLED"": false, ""RECONCILIATION_ENABLED"": false, ""RECONCILE_INTERVAL"": 0.5, ""SIMULATION_TIME"": 30, ""WORLD_SIZE"": [1000, 1000], ""PLAYER_SPEED"": 200.0, ""SERVER_HOST"": ""127.0.0.1"", ""SERVER_PORT"": 65432, ""CLIENT_PORT"": 65433}","[{""player_id"": 0, ""client_seed"": 42, ""latency_ms"": 0.0}, {""player_id"": 1, ""client_seed"": 42, ""latency_ms"": 0.0}]"
